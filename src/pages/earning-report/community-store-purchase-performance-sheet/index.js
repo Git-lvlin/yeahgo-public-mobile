@@ -1,0 +1,3 @@
+import CommunityStorePurchasePerformanceSheet from './community-store-purchase-performance-sheet'
+
+export default CommunityStorePurchasePerformanceSheet
